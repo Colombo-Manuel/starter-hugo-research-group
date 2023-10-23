@@ -133,6 +133,7 @@ sections:
        ### Other Interesting Links:
        {style="color: darkblue"}
        - [x] [Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder) – ___The Illinois Database of Grants and Fellowships for Graduate Students___
+       - [x] [Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder) – ___The Illinois Database of Grants and Fellowships for Graduate Students___
         
     design:
       columns: '1'
