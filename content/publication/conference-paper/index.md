@@ -1,10 +1,13 @@
 ---
-title: 'An example conference paper'
+title: 'An  conference paper'
 authors:
-  - admin
-  - Robert Ford
+  # - admin
+  # - Robert Ford
 date: '2013-07-01T00:00:00Z'
 doi: ''
+image:
+  focal_point: 'top'
+  size: actual
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

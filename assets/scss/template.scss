@@ -5,5 +5,12 @@
 
 // Center the CTA shortcode button
 .cta-group {
-  justify-content: center;
+  justify-content: justify;
 }
+// .article-banner { width: 100%; height: auto; }
+img,video {height:auto; max-width: auto; margin-left: auto; margin-right: auto; display: block; align-items: center;}
+//bg::after { transform: scale(1.125); transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;}
+.card-simple .article-style,
+.media.stream-item .article-style {
+  margin-top: 2px;
+  font-size: 0.9rem; }
