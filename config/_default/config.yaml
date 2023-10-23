@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: B.A.B. Lab # Website name
-baseURL: 'https://github.com/Colombo-Manuel/Colombo-Manuel.github.io' # Website URL
+baseURL: 'https://Colombo-Manuel.github.io' # Website URL
 
 ############################
 ## LANGUAGE
