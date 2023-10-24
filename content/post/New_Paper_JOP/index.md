@@ -1,6 +1,6 @@
 ---
 title: New Paper Out!
-date: 2022-06-27
+date: 2023-06-27
 ---
 
 The new paper, lead by collaborator Eric D Speranza, [“Initial assessment of multi-compound antineoplastic drug surface contamination in Argentinean healthcare centers: Insights into occupational exposures in South America”]( https://journals.sagepub.com/doi/abs/10.1177/10781552231188320) has been published. 

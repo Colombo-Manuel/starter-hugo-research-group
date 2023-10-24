@@ -1,6 +1,6 @@
 ---
 title: New Paper Out!
-date: 2022-07-02
+date: 2023-07-02
 ---
 
 The new paper, lead by collaborator [Birgit Rogalla](https://www.eoas.ubc.ca/~brogalla/), [“Continental and Glacial Runoff Fingerprints in the Canadian Arctic Archipelago, the Inuit Nunangat Ocean”](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JG007072) has been published. This study aims to provide a linkage between the terrestrial and marine environments, assessing the influence of freshwater inputs on biogeochemical cycles in the Canadian Arctic Ocean.  

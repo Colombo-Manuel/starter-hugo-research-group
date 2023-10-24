@@ -1,6 +1,6 @@
 ---
 title: New Paper Out!
-date: 2022-10-01
+date: 2023-10-01
 ---
 
 Our new paper [“Control of particulate manganese (Mn) cycling in halocline Arctic Ocean waters by putative Mn‐oxidizing bacterial dynamics”]( https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12407) has been published. This large-scale field study combines trace element analysis with microbial data to unravel the geochemistry of Mn in the Canadian Arctic Ocean.  

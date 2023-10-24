@@ -1,6 +1,6 @@
 ---
 title: Opportunities for Grad Students!
-date: 2022-12-02
+date: 2023-10-24
 image:
   focal_point: 'bottomleft'
 ---

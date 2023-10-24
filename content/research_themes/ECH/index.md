@@ -14,7 +14,7 @@ image:
 external_link: ''
 
 ---
-Human activities are a key source of pollutants to freshwater systems and the coastal environment, as well as, some chemicals have deleterious effects on human health. Throughout collaborative work with excellent colleagues, we work on multiple projects spanning from tracing urban-industrial effluents in rivers to pharmaceuticals in hospitals. Although it is not the primary research focus  in the B.A.B. lab, we aim to develop it further in the coming years!  
+Human activities are a key source of pollutants to freshwater systems and the coastal environment, as well as, some chemicals have deleterious effects on human health. Throughout collaborative work with excellent colleagues, we work on multiple projects spanning from tracing urban-industrial effluents in rivers to pharmaceuticals in hospitals. Although it is not the primary research focus  in the B.A.B. Lab, we aim to develop it further in the coming years!  
 
 <!--more-->
 **Some of the project we work on include:**

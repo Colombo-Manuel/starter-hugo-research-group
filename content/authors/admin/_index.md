@@ -72,7 +72,7 @@ user_groups:
   - Principal Investigator
 ---
 
-I am a broadly trained and process oriented driven biogeochemist and oceanographer, who combines cross-disciplinary expertise and knowledge in the fields of organic and inorganic geochemistry. My primary research interests are the study of organic carbon (OC), nitrogen, lipid biomarkers and trace elements (TEs) in rivers, estuaries and marine environments, and the processes that control their cycling. I have also been working in the environmental hygiene area developing methods to trace pharmaceuticals in health care centers and monitor their containment.
+I am a broadly trained and process oriented driven biogeochemist and oceanographer, who combines cross-disciplinary expertise and knowledge in the fields of organic and trace element geochemistry. My primary research interests are the study of organic carbon (OC), nitrogen, lipid biomarkers and trace elements (TEs) in rivers, estuaries and marine environments, and the processes that control their cycling. I have also been working in the environmental hygiene area developing methods to trace pharmaceuticals in health care centers and monitor their containment.
 
 Trained as a biologist (BSc), I progressively shifted gears towards environmental chemistry after graduating, and then pursued a Ph.D. degree in biogeochemistry and oceanography at the University of British Columbia. Besides science, I enjoy doing sports, especially tennis, exploring new areas with my wife, reading and learning new things. 
 <style>body {text-align: justify}</style>

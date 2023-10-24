@@ -12,7 +12,7 @@ image:
 external_link: ''
 
 ---
-Understanding from small to large scale processes controlling the distribution and cycling of trace elements (TEs) and organic carbon (OC) in coastal environments and the open ocean is a primary endeavor of the geoscience community. This require a wide array of integrated knowledge, spanning from geochemistry, biology / microbiology and modelling, to unravel the complexity of the marine environment. 
+Understanding from small to large scale processes controlling the distribution and cycling of trace elements (TEs) and organic carbon (OC) in coastal environments and the open ocean is a primary endeavor of the geoscience community. This require a wide array of integrated knowledge, spanning from geochemistry, biology / microbiology and modelling, to unravel the complexity of freshwater, coastal and marine environments. 
 
 <!--more-->
 **Some of the work collaborators and myself have been tackling include:**

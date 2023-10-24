@@ -31,7 +31,7 @@ sections:
     content:
       title: 
       text: |
-        ### I am starting the new lab on March 2024, so it is not so crowded for now, __BUT__ it will not last long as we are currently hiring. Please check the ["Current Opportunities"]({{< ref "opportunities#curropp" >}}) tab to find out more!
+        ### I will be starting the new B.A.B. Lab at VIMS and W&M on February 2024, so it is not so crowded for now, __BUT__ it will not last long as we are currently hiring. Please check the ["Current Opportunities"]({{< ref "opportunities#curropp" >}}) tab to find out more!
         {style="color: darkblue"}
     design:
       # Choose an optional background color, gradient, image, or video
@@ -45,5 +45,5 @@ sections:
         gradient_end: '	#F5F5F5'
         gradient_start: '	#F5F5F5'
       spacing:
-        padding: ['0px', '0px', '0px', '0px']
+        padding: ['0px', '0px', '10px', '0px']
 ---
