@@ -49,7 +49,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: covear
+          size: cover
           text_color_light: true
       spacing:
         padding: ['20px', '25px', '20px', '25px']
@@ -60,6 +60,7 @@ sections:
       subtitle: |
         The research developed at B.A.B. Lab has a strong cross disciplinary focus, combining knowledge and techniques from trace elements (__TEs__) and organic carbon (__OC__) geochemistry, and a process-oriented approach. 
         {style="color: darkblue"}
+        <style>body {text-align: justify}</style>
       text: 
       count: 5
       filters:

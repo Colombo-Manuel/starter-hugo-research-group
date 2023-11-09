@@ -15,18 +15,18 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: 'Person'
     local_business_type: ''
     org_name: 'VIMS'
-    description: ''
+    description: 'biogeochemistry, oceanography, trace elements, organic carbon, professor'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-GF0ZM5SX50'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'google80c6ef832818631d.html'
     baidu: ''
 
 # Site header
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>' #Verify!!!
+    url: 'https://github.com/Colombo-Manuel/Colombo-Manuel.github.io' #Verify!!!
     content_dir: content
     branch: main
   avatar:

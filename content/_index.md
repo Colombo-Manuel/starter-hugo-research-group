@@ -23,7 +23,7 @@ sections:
         <br>
 
       cta:
-        label: 'Principal Investigator: Manuel Colombo'
+        label: 'Manuel Colombo, Assistant Professor'
         url: ./author/manuel-colombo
     design:
       # Choose an optional background color, gradient, image, or video
